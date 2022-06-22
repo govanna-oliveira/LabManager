@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qokJqDPfZp3K/c/rSfJpyteNoSIxoLooZlaFjT/mjCvFfQFKYQNzMz13pSWWpsRoGZJrFAm+7pzoqpNzn+OJ4g==",
+  "dgSpecHash": "qgVXpBHT0IZtT6bzWF13us8HJ/DLjOETRNPG6Vbqg3t4Ryg9qCDKGAwLPMW05nNFUI9S64xjjAWBD31uvc2NcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IFSP\\Desktop\\SP3044866\\SP3044866\\LabManager\\LabManager.csproj",
+  "projectFilePath": "C:\\Users\\IFSP\\Desktop\\SP3044866\\LabManager\\LabManager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\IFSP\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.data.sqlite\\6.0.5\\microsoft.data.sqlite.6.0.5.nupkg.sha512",
     "C:\\Users\\IFSP\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
     "C:\\Users\\IFSP\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
